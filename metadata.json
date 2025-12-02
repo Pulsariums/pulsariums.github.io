@@ -1,0 +1,5 @@
+{
+  "name": "Pulsar Tool Hub build",
+  "description": "A centralized, AMOLED-themed hub for accessing multiple GitHub repositories and tools with fluid animations.",
+  "requestFramePermissions": []
+}
