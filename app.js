@@ -77,6 +77,9 @@ function render(items) {
 
 function showError() {
   var message = document.getElementById("message");
+  if (!message) {
+    return;
+  }
   message.textContent = "Liste yüklenemedi";
   message.hidden = false;
 }
